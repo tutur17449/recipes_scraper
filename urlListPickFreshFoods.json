@@ -1,0 +1,47 @@
+[
+    {
+        "url": "https://pickfreshfoods.com/vegetable-nicoise-salad/",
+        "name": "Salade de légumes niçoise",
+        "type": "plat"
+    },
+    {
+        "url": "https://pickfreshfoods.com/strawberry-scones/",
+        "name": "Scones aux fraises",
+        "type": "dessert"
+    },
+    {
+        "url": "https://pickfreshfoods.com/apple-quesadillas/",
+        "name": "Quesadillas à la pomme",
+        "type": "dessert"
+    },
+    {
+        "url": "https://pickfreshfoods.com/homemade-chicken-noodle-soup/",
+        "name": "Soupe de nouilles au poulet faites maison",
+        "type": "soupe"
+    },
+    {
+        "url": "https://pickfreshfoods.com/southwestern-quinoa-salad/",
+        "name": "Salade de quinoa du sud-ouest",
+        "type": "plat"
+    },
+    {
+        "url": "https://pickfreshfoods.com/healthy-quinoa-salad/",
+        "name": "Salade de quinoa healthy",
+        "type": "plat"
+    },
+    {
+        "url": "https://pickfreshfoods.com/lasagna-soup/",
+        "name": "Soupe de lasagne",
+        "type": "soupe"
+    },
+    {
+        "url": "https://pickfreshfoods.com/chicken-spring-rolls/",
+        "name": "Rouleaux de printemps au poulet",
+        "type": "plat"
+    },
+    {
+        "url": "https://pickfreshfoods.com/spicy-lemon-basil-chicken/",
+        "name": "Poulet épicé au citron et au basilic",
+        "type": "plat"
+    }
+]

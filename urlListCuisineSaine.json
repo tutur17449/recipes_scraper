@@ -1,0 +1,36 @@
+[
+    {
+        "url": "https://cuisine-saine.fr/recette-paleo/encas-healthy-paleo-gluten-lait/",
+        "name": "Encas healthy paléo sans gluten ni lait",
+        "type": "dejeuner",
+        "difficulte": "simple",
+        "keywords": [
+            "sans gluten",
+            "paléo",
+            "sans lait"
+        ]
+    },
+    {
+        "url": "https://cuisine-saine.fr/recette-paleo/gateau-paleo-cacao/",
+        "name": "Gâteau paléo ultra cacao",
+        "type": "dessert",
+        "difficulte": "simple",
+        "keywords": [
+            "paléo",
+            "gâteau",
+            "sans gluten",
+            "sans lactose"
+        ]
+    },
+    {
+        "url": "https://cuisine-saine.fr/recette-paleo/entremet-vanille-sans-gluten-paleo/",
+        "name": "Entremet vanille paléo",
+        "type": "dessert",
+        "difficulte": "simple",
+        "keywords": [
+            "pélo",
+            "sans gluten",
+            "sans lait"
+        ]
+    }
+]
